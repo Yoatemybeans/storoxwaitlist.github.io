@@ -1,0 +1,204 @@
+.pngfind1Icon,
+.rectangleIcon,
+.whiteLogoNoBackground {
+  position: absolute;
+  top: 32px;
+  left: 565px;
+  width: 790px;
+  height: 166px;
+  object-fit: cover;
+}
+
+.pngfind1Icon,
+.rectangleIcon {
+  top: 315px;
+  left: 87px;
+  width: 968px;
+  height: 602px;
+}
+
+.rectangleIcon {
+  top: 370px;
+  left: 149px;
+  width: 848px;
+  height: 445px;
+}
+
+.rectangleDiv {
+  position: absolute;
+  top: 355px;
+  left: 1127px;
+  border-radius: 25px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 582px;
+  height: 500px;
+  mix-blend-mode: normal;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 3px;
+}
+
+.theNextLevelOfEccommerce {
+  position: absolute;
+  top: 192px;
+  left: 597px;
+  display: inline-block;
+  width: 726px;
+  height: 58px;
+}
+
+.rectangleButton {
+  position: absolute;
+  top: 800px;
+  left: 1127px;
+  height: 75px;
+  border-radius: 25px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 3px;
+  border-top-width: 2px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.joinTheWaitlistNowAndGet {
+  position: absolute;
+  top: 367px;
+  left: 1137px;
+  font-size: 20px;
+  font-family: var(--font-nunito);
+  color: #302b2b;
+  display: inline-block;
+  width: 569px;
+  height: 37px;
+}
+
+.rectangleButton1 {
+  position: absolute;
+  top: calc(50% - 131px);
+  left: calc(50% + 175px);
+  height: 75px;
+  font-size: large;
+  font-weight: 500;
+  border-left-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 3px;
+}
+
+.rectangleButton2,
+.rectangleButton3 {
+  position: absolute;
+  top: 409px;
+  left: 1323px;
+  height: 75px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.rectangleButton3 {
+  left: 1515px;
+  border-right-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 3px;
+}
+
+.lineDiv {
+  top: 407.5px;
+  left: 1321.5px;
+  border-right: 3px solid var(--color-black);
+  width: 3px;
+  height: 77px;
+}
+
+.lineDiv,
+.lineDiv1,
+.lineDiv2,
+.lineDiv3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+
+.lineDiv1 {
+  top: 407.5px;
+  left: 1515.5px;
+  border-right: 3px solid var(--color-black);
+  width: 3px;
+  height: 77px;
+}
+
+.lineDiv2,
+.lineDiv3 {
+  top: 481.5px;
+  left: 1125.5px;
+  border-top: 3px solid var(--color-black);
+  width: 582px;
+  height: 3px;
+}
+
+.lineDiv3 {
+  top: 407.5px;
+}
+
+.rectangleTextField,
+.rectangleTextField1,
+.rectangleTextField2 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 510px;
+  left: 1171px;
+}
+
+.rectangleTextField1,
+.rectangleTextField2 {
+  top: 613px;
+}
+
+.rectangleTextField2 {
+  top: 716px;
+}
+
+.pngegg1A {
+  text-decoration: none;
+  position: absolute;
+  top: 951px;
+  left: 45px;
+  width: 46px;
+  height: 44px;
+  background-image: url(../../public/pngegg-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 369px;
+  left: 149px;
+  border-radius: var(--br-md) 0 0 var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 53px;
+  height: 448px;
+}
+
+.rectangleDiv2 {
+  left: 942px;
+  border-radius: 0 var(--br-md) var(--br-md) 0;
+  width: 64px;
+}
+
+.landingPageDiv {
+  position: relative;
+  background-color: #2f303a;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: var(--font-inter);
+}
